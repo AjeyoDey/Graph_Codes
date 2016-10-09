@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="498fef05-3156-411a-bf82-6a858f768e65" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Intern-Finder.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/search/admin.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/search/api.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/search/find.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/search/forms.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/search/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/search/templates/search/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/search/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/search/views.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/intern_finder/settings.py" afterPath="$PROJECT_DIR$/intern_finder/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/intern_finder/urls.py" afterPath="$PROJECT_DIR$/intern_finder/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Intern-Finder.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,7 +26,7 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/intern_finder/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
+            <state relative-caret-position="-55">
               <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
               <folding />
             </state>
@@ -510,7 +495,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/intern_finder/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
+        <state relative-caret-position="-55">
           <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
           <folding />
         </state>
